@@ -6,7 +6,7 @@ Original MultiWii GitHub page: https://github.com/multiwii/multiwii-firmware
 Original MultiWii v2.0: http://code.google.com/p/multiwii/downloads/list file name: "MultiWii_2_0.zip"     
      
 **This firmware writed for my project DCwii:**     
-https://gihub.com/geovas/DCwii     
+https://github.com/geovas/DCwii     
 
 **New Features:**
 - Work with Arduino Pro Mini 8MHz 3.3v
