@@ -1,6 +1,9 @@
 MultiWii-Firmware v2.0 - DCwii edition
 =====
 
+**Disclaimer**     
+At now my Firmware is staying in testing condition! All the actions you perform at your own risk!
+
 **This is a fork of the original MultiWii**     
 Original MultiWii GitHub page: https://github.com/multiwii/multiwii-firmware     
 Original MultiWii v2.0: http://code.google.com/p/multiwii/downloads/list file name: "MultiWii_2_0.zip"     
@@ -34,6 +37,3 @@ https://github.com/geovas/DCwii
 - Tx/Rx: Turnigy 6XS FHSS / RX7000S
 - LiPo: Turnigy Nano-Tech 600mAh 1S
 - Misc: Turnigy Voltage Booster for Servo
-
-**Disclamer**
-At now my Firmware is staying in testing condition! All the actions you perform at your own risk!
